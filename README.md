@@ -1,2 +1,2 @@
 # MLF-CNN
-CNN Implementation for MNIST Digit Recognition
+Utilized the MNIST dataset for optical recognition of handwritten digits. Leveraged the fetch_ucirepo function from the ucimlrepo library to import dataset ID 80 from the UCI repository. Structured the data into features (image data) and targets (digit labels). Analyzed and printed the dataset's metadata and variables to understand its composition, facilitating subsequent machine learning model development and evaluation.
