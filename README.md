@@ -32,12 +32,12 @@ The CNN model is defined using Keras, with the following architecture:
 The model achieves high accuracy on the test set, demonstrating its effectiveness in recognizing handwritten digits. Key performance metrics and visualizations of the results are provided to assess the model’s performance.
 
 ## Contributors 
-+ **Abhaya Rawal**: [Github Profile] (https://github.com/abhayarawal14 "title text!") [Repository Link] (https://github.com/abhayarawal14/MLF-CNN "title text!")
-+ **Rahul Bhandari**: [Github Profile] (https://github.com/Crahul21) [Repository Link] (https://github.com/Crahul21/CNN-Implementation-for-MNIST-Digit-Recognition)
-+ **Praveen Raghubanshi**: [Github Profile] (https://github.com/raghubanshi) [Repository Link] (https://github.com/raghubanshi/CNN)
++ **Abhaya Rawal**: [Github Profile](https://github.com/abhayarawal14 "title text!") [Repository Link](https://github.com/abhayarawal14/MLF-CNN "title text!")
++ **Rahul Bhandari**: [Github Profile](https://github.com/Crahul21) [Repository Link](https://github.com/Crahul21/CNN-Implementation-for-MNIST-Digit-Recognition)
++ **Praveen Raghubanshi**: [Github Profile](https://github.com/raghubanshi) [Repository Link](https://github.com/raghubanshi/CNN)
 
 ## License 
-This project is licensed under the MIT License - see the [LICENSE] (https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 ## Acknowledgements 
 + Special thanks to the creators of the MNIST dataset and the contributors to the Keras library.
